@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Muhammad](https://up.htmlacademy.ru/javascript/19/user/1177851).
-* Наставник: `Неизвестно`.
+* Наставник: `Артем Матковский`.
 
 ---
 
